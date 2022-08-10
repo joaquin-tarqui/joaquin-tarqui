@@ -10,7 +10,7 @@ programar adoro </h3>
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=cobalt)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&lags_count=8&theme=cobalt"/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo :</h3>
 <p align="left">
 </div>
   <a href="https://linkedin.com/in/oliver-tarqui-68b854243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +21,10 @@ programar adoro </h3>
 <a href="https://br.pinterest.com/00001094875533sp/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming .com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c " width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming .com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c " width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40
 
 <div style="display: inline_block"><br>
   <img align="center" alt="oliver-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

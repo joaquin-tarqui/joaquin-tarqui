@@ -10,7 +10,6 @@ programar adoro </h3>
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=cobalt)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&lags_count=8&theme=cobalt"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </div>

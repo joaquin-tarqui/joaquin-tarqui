@@ -1,5 +1,5 @@
 <h1 aligncenter="">ola 🌱 meu nome e oliver joaquin</h1>
-<h3 align="center">gosto de desenvolvedor e programador 
+<h3 align="center">gosto de desenvolvedor e programador, 
 programar adoro </h3>
 
 - 🌱 atualmente estou atualizando **java, script, Python, Ruby , PHP, e front End tc**
